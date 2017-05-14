@@ -1,0 +1,11 @@
+# Python
+env/
+
+# Data with license issues
+data/equity-5min/*.csv
+data/wrds/*.csv
+
+
+# Autosave files
+*~
+*#

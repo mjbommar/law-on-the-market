@@ -1,0 +1,10 @@
+dplyr
+erer
+ggplot2
+ggthemes
+gridExtra
+lubridate
+plyr
+reshape2
+tidyr
+xts

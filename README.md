@@ -1,5 +1,3 @@
-# law-on-the-market
-
 ## [Law on the Market? Abnormal Stock Returns and Supreme Court Decision-Making](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2649726)
 #### [Daniel Martin Katz](http://www.danielmartinkatz.com/), Illinois Tech - Chicago Kent College of Law
 #### [Michael James Bommarito II](https://www.linkedin.com/in/bommarito), Illinois Tech - Chicago Kent College of Law
